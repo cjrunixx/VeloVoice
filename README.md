@@ -23,5 +23,3 @@ For detailed setup instructions and hardware list, please refer to:
 - **Frontend**: React, Zustand (State Management), Framer Motion (Animations), MapLibre (GPS).
 - **Backend**: Node.js, Express, WebSocket (Live Pipeline), Google GenAI (Gemini).
 
----
-*VeloVoice is 🏁 Production Ready.*
