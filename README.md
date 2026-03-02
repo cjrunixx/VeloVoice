@@ -23,3 +23,8 @@ For detailed setup instructions and hardware list, please refer to:
 - **Frontend**: React, Zustand (State Management), Framer Motion (Animations), MapLibre (GPS).
 - **Backend**: Node.js, Express, WebSocket (Live Pipeline), Google GenAI (Gemini).
 
+## 📄 License
+
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
+This project is licensed under the Apache License 2.0 - see the LICENSE file for details.
